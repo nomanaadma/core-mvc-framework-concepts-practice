@@ -2,6 +2,6 @@
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root
-  define('URLROOT', 'http://localhost/traversymvc');
+  define('URLROOT', 'http://core-mvc-framework-concepts-practice.test');
   // Site Name
-  define('SITENAME', 'TraversyMVC');
+  define('SITENAME', 'MVCpractice');
